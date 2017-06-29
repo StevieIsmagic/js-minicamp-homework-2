@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop - allows a certain action to be repeated a predetermined number of times.
+	* && || !  - conditional operators and, eiter/or, not.
+	* Array - data structure which is a collection of elements.
+	* git - version control system for source code; tracks changes made to code; for online collaboration.
+	* GitHub - the most popular repository for online collaboration.
 
 
 2. Install git.  https://git-scm.com/downloads
